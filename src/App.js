@@ -11,7 +11,7 @@ class App extends Component
      
 
       <div>
-         <h1>hi</h1>
+         <h1>hi, calling from netlify</h1>
         
             </div>
     );
